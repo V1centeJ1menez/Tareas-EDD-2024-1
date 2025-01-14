@@ -1,0 +1,20 @@
+Nombre: Vicente Andres Jimenez Sepulveda.  Rol:202373523-k. Paralelo:203.
+Nombre: Joaquin Alexis Aguilar Zapata. Rol:202373630-9. Paralelo:203.
+
+Detalles (Vicente):
+
+implementaicon de:
+    -   obtenerPiezas()
+    -   calcularAtaquesTorre()
+    -   calcularAtaquesAlfil()
+    -   calcularAtaquesReina()
+    -   hayPiezaEnLaCasillaActual()
+
+Detalles (Joaquin):
+
+implementacion de:
+    -   analizarCasillasTablero()
+    -   calcularAtaquePeon()
+    -   calcularAtaqueRey()
+    -   calcularAtaqueCaballo()
+    -   tableroEnJaqueMate()
